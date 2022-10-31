@@ -1,6 +1,7 @@
 version: '3.3'
 services:
     hng9-task-1:
+        build: .
         ports:
             - '80:80'
         image: hng9-task-1
