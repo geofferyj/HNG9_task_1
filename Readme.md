@@ -1,4 +1,4 @@
-# My HNG 9 Task 1
+# My HNG 9 Task 2
 
 The task was completed using golang, it has been containerized for ease of use.
 
